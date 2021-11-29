@@ -6,7 +6,7 @@ call plug#begin('~/.config/.vim')
 	Plug 'leafgarland/typescript-vim'			" TypeScript Syntax
 	Plug 'vim-python/python-syntax'				" Python Syntax
 
-	" Status Bar
+" Status Bar
 	Plug 'vim-airline/vim-airline'				
 	Plug 'vim-airline/vim-airline-themes'
 
